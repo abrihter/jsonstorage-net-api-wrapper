@@ -1,5 +1,5 @@
 # WRAPPER FOR JSONSTORAGE.NET API #
-Simple wrapper for jsonstorage.net API, created by Alexander Doroshenko
+Simple python wrapper for [jsonstorage.net](https://jsonstorage.net) API, created by Alexander Doroshenko
 
 ## HOW TO USE ##
 ```Python
